@@ -1,0 +1,11 @@
+#x=open("C:\\Users\\anith\\OneDrive\\Desktop\\sample.txt","rt")
+#print(x.read())
+
+x=open("C:\\Users\\anith\\OneDrive\\Desktop\\sample.txt","r+")
+x.truncate(0)
+x.close()
+#x.write("adding content from python file")
+#x.close()
+a=open("C:\\Users\\anith\\OneDrive\\Desktop\\sample.txt","r")
+print(a.read())
+a.close()
