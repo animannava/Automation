@@ -1,5 +1,7 @@
 from selenium.webdriver.common.by import By
 
+from PageObject.Payment import Payment
+
 
 class Shoppage:
     def __init__(self, driver):
@@ -20,4 +22,6 @@ class Shoppage:
 
     def gocart(self):
         self.driver.find_element(*self.checkout).click()
+        paym=Payment(self.driver)
+        return paym
 
