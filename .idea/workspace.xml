@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9217f2ed-6714-4003-9065-fea3954bea17" name="Changes" comment="Pushing the changes">
-      <change afterPath="$PROJECT_DIR$/RetailShopping/Inputfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RetailShopping/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RetailShopping/test_Products.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Automation" beforeDir="false" afterPath="$PROJECT_DIR$/Automation" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Automation/conftest.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Automation/test_Products.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinkedIn/Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/LinkedIn/Login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PageObject/Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/Login.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PythonTesting/Automation/WorkingwithFiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonTesting/Automation/WorkingwithFiles.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -210,7 +205,7 @@
       <updated>1741368183570</updated>
       <workItem from="1741368185480" duration="27797000" />
       <workItem from="1741830074644" duration="1735000" />
-      <workItem from="1741880910093" duration="6503000" />
+      <workItem from="1741880910093" duration="6563000" />
     </task>
     <servers />
   </component>
