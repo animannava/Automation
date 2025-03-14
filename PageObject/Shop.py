@@ -1,3 +1,5 @@
+import time
+
 from selenium.webdriver.common.by import By
 
 from PageObject.Payment import Payment
@@ -21,6 +23,7 @@ class Shoppage:
                 product.find_element(By.XPATH, "//button[@class='btn btn-info']").click()
 
     def gocart(self):
+        time.sleep(5)
         self.driver.find_element(*self.checkout).click()
         paym=Payment(self.driver)
         return paym

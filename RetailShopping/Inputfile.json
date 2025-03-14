@@ -1,0 +1,11 @@
+{
+"data" :
+        [
+            {
+                "username" : "rahulshettyacademy",
+                "password" : "learning",
+                "product" : ["Blackberry", "iphone X"],
+                "browser" : ["chrome","firefox","edge"]
+            }
+        ]
+}

@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9217f2ed-6714-4003-9065-fea3954bea17" name="Changes" comment="Pushing the changes">
+      <change afterPath="$PROJECT_DIR$/RetailShopping/Inputfile.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Automation" beforeDir="false" afterPath="$PROJECT_DIR$/Automation" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Automation/conftest.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Automation/test_Products.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PageObject/Shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObject/Shop.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PythonTesting/Automation/WorkingwithFiles.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonTesting/Automation/WorkingwithFiles.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetailShopping/Inputfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetailShopping/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/RetailShopping/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RetailShopping/test_Products.py" beforeDir="false" afterPath="$PROJECT_DIR$/RetailShopping/test_Products.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,26 +39,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests for test_demo.test_firstmethod.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in PyTest.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_Products.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_demo1.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Comparingexcelfiles.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Login.executor&quot;: &quot;Run&quot;,
-    &quot;Python.WorkingwithAutoselectivedropdowns.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Automation&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for test_demo.test_firstmethod.executor": "Run",
+    "Python tests.Python tests in PyTest.executor": "Run",
+    "Python tests.Python tests in test_Products.py.executor": "Run",
+    "Python tests.Python tests in test_demo1.py.executor": "Run",
+    "Python.Comparingexcelfiles.executor": "Run",
+    "Python.Login.executor": "Run",
+    "Python.WorkingwithAutoselectivedropdowns.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Automation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Automation" />
@@ -205,7 +211,7 @@
       <updated>1741368183570</updated>
       <workItem from="1741368185480" duration="27797000" />
       <workItem from="1741830074644" duration="1735000" />
-      <workItem from="1741880910093" duration="6563000" />
+      <workItem from="1741880910093" duration="14731000" />
     </task>
     <servers />
   </component>
@@ -218,7 +224,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Automation$Comparingexcelfiles.coverage" NAME="Comparingexcelfiles Coverage Results" MODIFIED="1741729386676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonTesting" />
-    <SUITE FILE_PATH="coverage/Automation$.coverage" NAME=" Coverage Results" MODIFIED="1741893494944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Automation" />
+    <SUITE FILE_PATH="coverage/Automation$.coverage" NAME=" Coverage Results" MODIFIED="1741983590147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Automation" />
     <SUITE FILE_PATH="coverage/Automation$WorkingwithAutoselectivedropdowns.coverage" NAME="WorkingwithAutoselectivedropdowns Coverage Results" MODIFIED="1741635413742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Automation" />
     <SUITE FILE_PATH="coverage/Automation$Login.coverage" NAME="Login Coverage Results" MODIFIED="1741631544146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedIn" />
   </component>
